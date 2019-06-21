@@ -1,1 +1,0 @@
-/home/christian/Projects/Kinect_OpenCV_DepthObjectTracking/build/CMakeFiles/KinectOpenCVObjectTracking.dir
